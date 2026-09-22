@@ -1,0 +1,6 @@
+{
+  "version": "0.8.5",
+  "notes": "생존 신호를 옛 화면도 읽게 두 자리에 적는다 · 적대적 검토에서 나온 결함 23건 수정 · npm 을 직접 찾는다 · 왜.cmd",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.5.zip",
+  "sha256": "0d73eb3ab31739bd119c5fb5721d419734abcbab01df51dccfe7838ba38577de"
+}
