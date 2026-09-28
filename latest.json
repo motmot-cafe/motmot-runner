@@ -1,6 +1,6 @@
 {
-  "version": "0.8.5",
-  "notes": "생존 신호를 옛 화면도 읽게 두 자리에 적는다 · 적대적 검토에서 나온 결함 23건 수정 · npm 을 직접 찾는다 · 왜.cmd",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.5.zip",
-  "sha256": "0d73eb3ab31739bd119c5fb5721d419734abcbab01df51dccfe7838ba38577de"
+  "version": "0.8.6",
+  "notes": "⚠ 먼저 Windows 보안에서 pension-sync 폴더를 '제외'로 등록한 뒤 업데이트하세요 — 안 하면 새 실행기.exe 가 격리돼 켜지지 않을 수 있습니다(가이드 참고)\n여기어때 객실 매핑의 코드 줄·이름 줄을 함께 씁니다 — 201·202호 할 일 실패와 한 시간마다 되풀이되던 경보가 멈춥니다(I-112)\n「방금 한 일」 에 예약 상태 표시 · 이미 반영된 취소는 다시 안 보냄 · 야놀자는 쓰기 잠금 그대로\n다음 업데이트부터 회사 저장소(motmot-cafe/motmot-runner)에서 받습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.6.zip",
+  "sha256": "8916e31692fc7ba6ae5c62202d2a3b57a6a71d875808a57aef2f5857db4e3f88"
 }
