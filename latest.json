@@ -1,6 +1,6 @@
 {
-  "version": "0.8.6",
-  "notes": "⚠ 먼저 Windows 보안에서 pension-sync 폴더를 '제외'로 등록한 뒤 업데이트하세요 — 안 하면 새 실행기.exe 가 격리돼 켜지지 않을 수 있습니다(가이드 참고)\n여기어때 객실 매핑의 코드 줄·이름 줄을 함께 씁니다 — 201·202호 할 일 실패와 한 시간마다 되풀이되던 경보가 멈춥니다(I-112)\n「방금 한 일」 에 예약 상태 표시 · 이미 반영된 취소는 다시 안 보냄 · 야놀자는 쓰기 잠금 그대로\n이제 실행기가 회사 저장소(motmot-cafe)와 옛 개인 저장소(wavely1213) 두 곳을 같이 보고 더 새 판을 받습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.6.zip",
-  "sha256": "0b139784aa989535a0f9114105fb12eabd444dcea44d461089f094bc6fa3bc5a"
+  "version": "0.8.7",
+  "notes": "⚠ 아직이면 먼저 Windows 보안에서 pension-sync 폴더를 '제외'로 등록하세요 — 새 실행기.exe 가 격리되면 업데이트가 중간에 멈춥니다(가이드 참고)\n야놀자 읽기를 채웠습니다 — 판매 상태·객실을 야놀자 파트너센터에서 읽습니다(방막기·방열기는 아직 잠금)\n「npm run why -- yanolja 2026-09-28 --days 34 --diff」 로 10월 말까지 야놀자 ↔ 원장을 한 번에 대 봅니다(읽기만)\n상태 문구를 못 알아본 날은 할 일에서도 누르지 않습니다(더 안전)\n기록 도구가 요청 칸 이름을 가리지 않습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.7.zip",
+  "sha256": "4f4f62b102ea27370823c64c8a746c22dfb1858e21b5dfe5b5e176e7e656aad9"
 }
