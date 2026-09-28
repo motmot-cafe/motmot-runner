@@ -1,6 +1,6 @@
 {
-  "version": "0.8.7",
-  "notes": "⚠ 아직이면 먼저 Windows 보안에서 pension-sync 폴더를 '제외'로 등록하세요 — 새 실행기.exe 가 격리되면 업데이트가 중간에 멈춥니다(가이드 참고)\n야놀자 읽기를 채웠습니다 — 판매 상태·객실을 야놀자 파트너센터에서 읽습니다(방막기·방열기는 아직 잠금)\n「npm run why -- yanolja 2026-09-28 --days 34 --diff」 로 10월 말까지 야놀자 ↔ 원장을 한 번에 대 봅니다(읽기만)\n상태 문구를 못 알아본 날은 할 일에서도 누르지 않습니다(더 안전)\n기록 도구가 요청 칸 이름을 가리지 않습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.7.zip",
-  "sha256": "4f4f62b102ea27370823c64c8a746c22dfb1858e21b5dfe5b5e176e7e656aad9"
+  "version": "0.8.8",
+  "notes": "⚠ 아직이면 먼저 Windows 보안에서 pension-sync 폴더를 '제외'로 등록하세요 — 새 실행기.exe 가 격리되면 업데이트가 중간에 멈춥니다(가이드 참고)\n야놀자 읽기를 채웠습니다 — 판매 상태·객실을 야놀자 파트너센터에서 읽습니다(방막기·방열기는 아직 잠금)\n「npm run why -- yanolja 2026-09-28 --days 34 --diff」 로 10월 말까지 야놀자 ↔ 원장을 한 번에 대 봅니다(읽기만) — 붙여넣기용 이름 매핑만 있어도 됩니다\n상태 문구를 못 알아본 날은 할 일에서도 누르지 않습니다(더 안전)\n기록 도구가 요청 칸 이름을 가리지 않습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.8.zip",
+  "sha256": "e38363f04f5268727ac9077d1147f102f3e4d59e9dbd39859b44cdd52004eb66"
 }
