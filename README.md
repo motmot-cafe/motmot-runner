@@ -14,3 +14,7 @@
 ⚠ 이 저장소에 올릴 수 있는 사람은 사장님 PC 에서 코드를 돌릴 수 있다(모토모토 I-099). 사장님 허락(2026-09-28)으로 여기서 배포한다.
 0.8.5 까지의 exe 는 `wavely1213/motmot-runner` 한 곳만 본다. 0.8.6 부터는 **이 저장소와 그 저장소 두 곳을 같이** 보고 더 새 판을 받는다(사장님 2026-09-28).
 0.8.5 PC 가 처음 여기서 받으려면 그 PC `.env` 에 `UPDATE_URL=https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/latest.json` 한 줄이 필요하다(개인 저장소에는 올리지 않는다 — 사장님 결정).
+
+## 블로그 원고기 (`blog-writer/`)
+
+모토모토 블로그 원고기(`모토모토-블로그원고.exe`)도 여기서 받는다 — `blog-writer/latest.json` · zip · sha256. 자세한 것은 `blog-writer/README.md`.

@@ -1,0 +1,8 @@
+{
+  "version": "2026.09.29-10",
+  "notes": "처음 올리는 판 — 원고기 안에서 새 판을 받아 바꿔 끼울 수 있습니다(시작 화면의 「업데이트」)\n원고마다 수집기의 필체 자료(style_guide.md)를 읽어 씁니다 — 없으면 그냥 씁니다\nPC 를 켜면 시작 화면이 같이 뜨고, 바탕화면 아이콘이 생깁니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-10.zip",
+  "sha256": "cd90cf2810f5640a1de47f022bf4674f9cd42cbcfdd424af00b97825f4f8aed6",
+  "exe_sha256": "0369b05f60b19b5b640ca85dddcdf0c497f1b3ac67011bee65f9f34a37a48fbd",
+  "size": 34311587
+}
