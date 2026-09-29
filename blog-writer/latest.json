@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.29-10",
-  "notes": "처음 올리는 판 — 원고기 안에서 새 판을 받아 바꿔 끼울 수 있습니다(시작 화면의 「업데이트」)\n원고마다 수집기의 필체 자료(style_guide.md)를 읽어 씁니다 — 없으면 그냥 씁니다\nPC 를 켜면 시작 화면이 같이 뜨고, 바탕화면 아이콘이 생깁니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-10.zip",
-  "sha256": "cd90cf2810f5640a1de47f022bf4674f9cd42cbcfdd424af00b97825f4f8aed6",
-  "exe_sha256": "0369b05f60b19b5b640ca85dddcdf0c497f1b3ac67011bee65f9f34a37a48fbd",
-  "size": 34311587
+  "version": "2026.09.29-11",
+  "notes": "동시에 최대 3편을 씁니다(설정에서 1~3)\n원고 유사도 검사(카피킬러 방식 · 지난 원고와 6어절 겹침 %) — 25% 넘으면 한 번 다시 쓰고, 「유사도 다시 검사」 로 고친 글도 잽니다\n원고 보관함 — 모든 접속 코드의 원고를 시작 화면에서 보고 고칩니다(홈페이지 SQL supabase-106 을 돌린 뒤)\n원고 지침(고정) — /write 설정의 지침을 원고마다 가장 먼저 읽습니다(SQL 106 뒤)\n필체 자료 자동 찾기 자리 추가 · 못 찾으면 매번 뒤지지 않음",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-11.zip",
+  "sha256": "84e72ff147610accc6993c94c6cd25e07f047d17f081ce2464ac8c8c44356e51",
+  "exe_sha256": "6be94790aebf9f4cb9db7aef85763f51ddb94b86cf0093946cb37480be0f4ac0",
+  "size": 34337502
 }
