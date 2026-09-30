@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.29-15",
-  "notes": "원고마다 「필요한 사진」 목록([사진N - 장면] 번호) · 촬영 목록 · 사진 상태(있음/찍어야 함/빼기)\n서버 PC 에서만 고치는 「리조트 정보 · 원고 기본」(사실 · QnA 은행 · 기본값 · 판 되돌리기)\n카테고리 셋: 단체 · 펜션&풀빌라 · 카페 (애견카페는 새 원고를 쓰지 않음)\nQnA 품질 높이기 · 이번 원고에 꼭 넣을 질문\n서버 PC AI 고쳐 쓰기 뒤 사진 상태 유지",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-15.zip",
-  "sha256": "04584004bfe4731b5985aa3c9d43777e9e6e8009314b26ecf4e33b973bb122d0",
-  "exe_sha256": "31da6a241cd8d4463264494aa4babc549dd20ac30474e68de113372901e38bce",
-  "size": 34433642
+  "version": "2026.09.29-16",
+  "notes": "원고마다 기준을 하나로: 단체고객 · 개인고객(펜션&풀빌라) · 카페 손님 — 화면에도 표지\n개인고객 글은 펜션·풀빌라 객실과 카페만 (단체룸 · 식사 · 족구장 · 컨벤션 · 단체 숙소 · 애견카페는 검수에서 걸림) · 개인 QnA · 펜션 애견 동반 옵션\n객실 수 · 동 수 대신 「최대 150명」 · 「숙소 7개 동」 · 카페 메뉴 종류 사실 삭제\n사실을 늘어놓지 않고 장면 흐름으로 · 나열은 ⚠\n펜션&풀빌라 · 카페 필체 자료를 새 수집기 폴더(out/stay · out/cafe)에서 찾음 · 카페 원고의 애견카페 줄 빼기",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-16.zip",
+  "sha256": "3c4c1afb3e51c9657ee09662eb095cf2571eefba7b2a559112c36e3d49075e9f",
+  "exe_sha256": "f1b4aad600d1643e780c5634aa13cbf66bb458b0b07794ffda56115e321fa4f6",
+  "size": 34455370
 }
