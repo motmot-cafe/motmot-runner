@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.29-14",
-  "notes": "원고 보관함 넓히기 — 모든 코드의 원고를 코드별로 거르고(ab** #1f3c), 원고 추가 · 사본 · 코드에 넘기기 · 옛 원고 가져오기 · AI 고쳐 쓰기 · 지우기(서버 PC 만)\n유사도 10% 이상이면 한 번 다시 쓰고, 그래도 넘으면 폐기(가장 비슷한 원고 한 편 기준 · 사실 문장 빼고 셈 · 설정에서 「모든 원고 합산」 으로 엄격하게)\n쓰기 전에 막기 — 지난 원고에서 되풀이된 말 · 같은 키워드의 각도를 피하도록 미리 알려 줌(겹침 학습)\n애견카페 원고에 요금 이야기를 쓰지 않음 · 코드 쪽에는 다른 코드 원고 제목·키워드를 가림\n새 버튼은 홈페이지 SQL supabase-107 을 돌린 뒤 켜짐",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-14.zip",
-  "sha256": "d1ca182877242f87a27015b20f5d88c889993c26b4f2cfcfb83b11aa07faab79",
-  "exe_sha256": "c4429385600739178ca90ed2ea928445430b74b2e59ffc88541988c171941262",
-  "size": 34383021
+  "version": "2026.09.29-15",
+  "notes": "원고마다 「필요한 사진」 목록([사진N - 장면] 번호) · 촬영 목록 · 사진 상태(있음/찍어야 함/빼기)\n서버 PC 에서만 고치는 「리조트 정보 · 원고 기본」(사실 · QnA 은행 · 기본값 · 판 되돌리기)\n카테고리 셋: 단체 · 펜션&풀빌라 · 카페 (애견카페는 새 원고를 쓰지 않음)\nQnA 품질 높이기 · 이번 원고에 꼭 넣을 질문\n서버 PC AI 고쳐 쓰기 뒤 사진 상태 유지",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-15.zip",
+  "sha256": "04584004bfe4731b5985aa3c9d43777e9e6e8009314b26ecf4e33b973bb122d0",
+  "exe_sha256": "31da6a241cd8d4463264494aa4babc549dd20ac30474e68de113372901e38bce",
+  "size": 34433642
 }
