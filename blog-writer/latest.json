@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.02-2",
-  "notes": "서버 PC 자세히 보기 → 「네이버에 바로 올리기 복사」: 고른 사진이 [사진N] 자리에 · 글 크기 · 키워드 굵게 + 색 · 소제목 · 인용구 칸 · 해시태그까지 한 번에 복사 — 스마트에디터 본문에 붙여 넣으세요\n사진이 안 들어가면 「사진 차례대로 저장」(motmot-photo-01.jpg …) · 블로그 지수 매일 자동 진단(2026.10.02-1) 그대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-2.zip",
-  "sha256": "79376a299026d7c0abf42ab327478ce204ffdf42d8dc5886756c001f5704e3cd",
-  "exe_sha256": "d45ec8953c2ab7b1a73c6f98517f3445664477fc4b7a496f77f8e8933741e95e",
-  "size": 34856658
+  "version": "2026.10.02-3",
+  "notes": "서버 PC 자세히 보기 → 「원고 폴더 만들기」: 문서 폴더 「모토모토 블로그 원고」 안에 원고마다 폴더 — 01_장면.jpg …(본문 사진 차례) · 네이버 붙여넣기.html · 원고.txt · 사진 목록.txt · 탐색기로 열림\n「네이버에 바로 올리기 복사」 · 블로그 지수 자동 진단 그대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-3.zip",
+  "sha256": "4d84e360f5a14367d1e489e87379ca8fb57fb37ab26c660ebe6174c95fd182a8",
+  "exe_sha256": "4a9d593776ec91dd4ae3a962d95e7e463be5e7d2c3229a8cb77a1d315c39efee",
+  "size": 34863605
 }
