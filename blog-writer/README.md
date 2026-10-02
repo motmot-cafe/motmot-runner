@@ -3,11 +3,11 @@
 사장님 PC 의 「모토모토 블로그 원고기」 가 켤 때와 6시간마다 여기의 `latest.json` 을 봅니다.
 새 판이면 시작 화면 맨 위에 **「새 판이 있습니다」** 가 뜹니다. **「업데이트」 를 눌러야** 받습니다 — 누르기 전에는 아무것도 바꾸지 않습니다.
 
-- 지금 판: **2026.09.30-2** — 개인(펜션 · 풀빌라) · 카페 원고에는 수용 정원을 쓰지 않습니다 — 객실 기준 · 최대 인원(「기준 2인 최대 4인」)을 사실에서 빼고 「몇 명까지」 질문을 고르지 않습니다
-- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-2.zip
+- 지금 판: **2026.09.30-3** — 원고에 인용구 둘이 들어갑니다 — 서론 끝 [인용구 - 따옴표](이 글을 두세 줄로) · 시설 파트 끝 [인용구 - 메모](놓치기 쉬운 한마디) · 올릴 때 그 자리에 네이버 인용구를 넣으세요
+- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-3.zip
 - `latest.json` — 판 번호 · 바뀐 점 · zip 주소 · sha256(zip) · exe_sha256(안의 exe) · size(zip 바이트)
-- `motmot-blog-writer-2026.09.30-2.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
-- `motmot-blog-writer-2026.09.30-1.zip` — 바로 앞 판(되돌릴 때)
+- `motmot-blog-writer-2026.09.30-3.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
+- `motmot-blog-writer-2026.09.30-2.zip` — 바로 앞 판(되돌릴 때)
 
 ## 원고기 안에서 업데이트 (보통은 이것)
 

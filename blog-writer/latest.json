@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.30-2",
-  "notes": "개인(펜션 · 풀빌라) · 카페 원고에는 수용 정원을 쓰지 않습니다 — 객실 기준 · 최대 인원(「기준 2인 최대 4인」)을 사실에서 빼고 「몇 명까지」 질문을 고르지 않습니다\n그래도 쓰면 최종 검수 「객실 수 · 수용 정원 안 씀」 이 잡아 다시 쓰게 합니다 · 단체 원고는 그대로 「최대 150명」 · 블로그 지수(판 2026.09.30-1)도 그대로 들어 있습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-2.zip",
-  "sha256": "cf57f32d5dec623e23225418d29d8a293bf96c3cf3aa66fab2e8d3d145b76289",
-  "exe_sha256": "2508bf0a8ccdf371c9bb6c02c422431f1fb4ff837b1a011ddc89aa09de6970cc",
-  "size": 34843967
+  "version": "2026.09.30-3",
+  "notes": "원고에 인용구 둘이 들어갑니다 — 서론 끝 [인용구 - 따옴표](이 글을 두세 줄로) · 시설 파트 끝 [인용구 - 메모](놓치기 쉬운 한마디) · 올릴 때 그 자리에 네이버 인용구를 넣으세요\n빠지면 최종 검수 「인용구(따옴표 · 메모)」 가 잡아 한 번 더 씁니다 · 「네이버 서식 복사」 에는 인용구 칸으로 · 수용 정원 · 블로그 지수 그대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-3.zip",
+  "sha256": "8256216afe5afc95581b6370c250fb33c685da716b4d74dd9b8878902e8dff00",
+  "exe_sha256": "c5b12f1d0eaf8bec814231aced4bea9222faa78192b35463d43eaf0ca6e8e9c8",
+  "size": 34848753
 }
