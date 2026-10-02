@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.30-1",
-  "notes": "블로그 지수(서버 PC 전용)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-1.zip",
-  "sha256": "821f947c4ce2690a6fdea7c3db5c2fec325fb3811e91a304f1f1042f31893a7a",
-  "exe_sha256": "0f9fcb268ca3582d9998fcfd03a3f7b1b424f010c599154346657032669239d6",
-  "size": 34391505
+  "version": "2026.09.30-2",
+  "notes": "개인(펜션 · 풀빌라) · 카페 원고에는 수용 정원을 쓰지 않습니다 — 객실 기준 · 최대 인원(「기준 2인 최대 4인」)을 사실에서 빼고 「몇 명까지」 질문을 고르지 않습니다\n그래도 쓰면 최종 검수 「객실 수 · 수용 정원 안 씀」 이 잡아 다시 쓰게 합니다 · 단체 원고는 그대로 「최대 150명」 · 블로그 지수(판 2026.09.30-1)도 그대로 들어 있습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-2.zip",
+  "sha256": "cf57f32d5dec623e23225418d29d8a293bf96c3cf3aa66fab2e8d3d145b76289",
+  "exe_sha256": "2508bf0a8ccdf371c9bb6c02c422431f1fb4ff837b1a011ddc89aa09de6970cc",
+  "size": 34843967
 }
