@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.02-1",
-  "notes": "블로그 지수 — 매일 오전 9시 자동 진단 · 하루 1건씩 쌓기\n지수 추이 그래프: 지표 고르기 · 전 측정 · 7일 · 30일 · 처음 대비 변화 폭 · 키워드 순위 변화",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-1.zip",
-  "sha256": "56983d5e01e0127b4945122b5206e3d5eeba78b2f00d37fe719bfef3ed91de8f",
-  "exe_sha256": "c5280313e988424cb659ba3ab115cf03931f8276ba2cc0dfc0fd5178a7217a13",
-  "size": 34400799
+  "version": "2026.10.02-2",
+  "notes": "서버 PC 자세히 보기 → 「네이버에 바로 올리기 복사」: 고른 사진이 [사진N] 자리에 · 글 크기 · 키워드 굵게 + 색 · 소제목 · 인용구 칸 · 해시태그까지 한 번에 복사 — 스마트에디터 본문에 붙여 넣으세요\n사진이 안 들어가면 「사진 차례대로 저장」(motmot-photo-01.jpg …) · 블로그 지수 매일 자동 진단(2026.10.02-1) 그대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-2.zip",
+  "sha256": "79376a299026d7c0abf42ab327478ce204ffdf42d8dc5886756c001f5704e3cd",
+  "exe_sha256": "d45ec8953c2ab7b1a73c6f98517f3445664477fc4b7a496f77f8e8933741e95e",
+  "size": 34856658
 }
