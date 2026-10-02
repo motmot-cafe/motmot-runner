@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.02-3",
-  "notes": "서버 PC 자세히 보기 → 「원고 폴더 만들기」: 문서 폴더 「모토모토 블로그 원고」 안에 원고마다 폴더 — 01_장면.jpg …(본문 사진 차례) · 네이버 붙여넣기.html · 원고.txt · 사진 목록.txt · 탐색기로 열림\n「네이버에 바로 올리기 복사」 · 블로그 지수 자동 진단 그대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-3.zip",
-  "sha256": "4d84e360f5a14367d1e489e87379ca8fb57fb37ab26c660ebe6174c95fd182a8",
-  "exe_sha256": "4a9d593776ec91dd4ae3a962d95e7e463be5e7d2c3229a8cb77a1d315c39efee",
-  "size": 34863605
+  "version": "2026.10.02-4",
+  "notes": "사진정리가 원고기 안에 들어왔습니다 — 원고기를 켜면 사진정리도 함께 켜지고, 시작 화면 「사진정리」 단추로 원고기 창 안에서 엽니다(업데이트도 원고기 한 번으로)\n사진 폴더에 새로 넣은 사진은 2분마다 찾아 준비 · 분류 · 폴더 정리까지 저절로(정리 번호는 그대로 · 새 사진은 뒤에)\n원고의 사진 자리마다 그 공간 · 카테고리의 사진이 후보로 나옵니다 · 원고 폴더 · 바로 올리기 복사 · 블로그 지수 그대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-4.zip",
+  "sha256": "1dc8fa62e6196b0978976cca236a1c2c90c74ed053f73ef6229557d90f78e2f5",
+  "exe_sha256": "ca756f664fc5bfbc16b159880b9317c76fe5ca508af58200a23eec90664e19c2",
+  "size": 37122740
 }
