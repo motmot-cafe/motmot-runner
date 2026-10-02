@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.30-3",
-  "notes": "원고에 인용구 둘이 들어갑니다 — 서론 끝 [인용구 - 따옴표](이 글을 두세 줄로) · 시설 파트 끝 [인용구 - 메모](놓치기 쉬운 한마디) · 올릴 때 그 자리에 네이버 인용구를 넣으세요\n빠지면 최종 검수 「인용구(따옴표 · 메모)」 가 잡아 한 번 더 씁니다 · 「네이버 서식 복사」 에는 인용구 칸으로 · 수용 정원 · 블로그 지수 그대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-3.zip",
-  "sha256": "8256216afe5afc95581b6370c250fb33c685da716b4d74dd9b8878902e8dff00",
-  "exe_sha256": "c5b12f1d0eaf8bec814231aced4bea9222faa78192b35463d43eaf0ca6e8e9c8",
-  "size": 34848753
+  "version": "2026.10.02-1",
+  "notes": "블로그 지수 — 매일 오전 9시 자동 진단 · 하루 1건씩 쌓기\n지수 추이 그래프: 지표 고르기 · 전 측정 · 7일 · 30일 · 처음 대비 변화 폭 · 키워드 순위 변화",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.02-1.zip",
+  "sha256": "56983d5e01e0127b4945122b5206e3d5eeba78b2f00d37fe719bfef3ed91de8f",
+  "exe_sha256": "c5280313e988424cb659ba3ab115cf03931f8276ba2cc0dfc0fd5178a7217a13",
+  "size": 34400799
 }
