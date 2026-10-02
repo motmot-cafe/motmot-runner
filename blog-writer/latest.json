@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.29-19",
-  "notes": "업데이트가 「새 판을 띄우지 못했습니다(EFTYPE)」 로 실패하던 것을 고침 — 판 -17 · -18 의 exe 가 윈도우에서 안 뜨는 꼴이었습니다(백신 탓 아님)\n기능은 판 -18 그대로 — 판 -16 에서 이 업데이트 한 번으로 -17 · -18 내용(자세히 보기 · 추천 조합 · 개인고객 범위 · 사진정리 후보 · 빼기/이걸로/더 받기/직접 추가)이 모두 들어옵니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.29-19.zip",
-  "sha256": "8f9c695925546a8cbffc0bbc8941eb99a8fa3db0df1b57851e8b0d4ef7391ae3",
-  "exe_sha256": "047369ebb9192a8c7eaf4c8fd46247a68819da1fb62e3a1c5f0f7ec8735aa920",
-  "size": 34774416
+  "version": "2026.09.30-1",
+  "notes": "블로그 지수(서버 PC 전용)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.09.30-1.zip",
+  "sha256": "821f947c4ce2690a6fdea7c3db5c2fec325fb3811e91a304f1f1042f31893a7a",
+  "exe_sha256": "0f9fcb268ca3582d9998fcfd03a3f7b1b424f010c599154346657032669239d6",
+  "size": 34391505
 }
