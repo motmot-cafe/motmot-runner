@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.06-2",
-  "notes": "복사한 글의 주소(네이버 플레이스 등)가 누르면 열리는 링크로 들어갑니다\n단체 글의 사진 자리에도 펜션&풀빌라 쪽 사진(외관 · 객실)이 후보로 옵니다 — 사진정리에 그 공간 사진이 있으면 사진이 그 자리에 바로 들어갑니다(이미 쓴 원고는 「후보 다시 받기」)\n인용구 둘만 · 빈 사진 자리 한 줄 · 사진정리 그대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.06-2.zip",
-  "sha256": "9fe6bff35baef5c75a71ad379cc26d9df451a6b6fd7b6e42229e98eb8ab68288",
-  "exe_sha256": "9b1a999feaf02eddd76e6e91e21008e4f7bf7865345acd0e96e9b3e1e6f36089",
-  "size": 41045750
+  "version": "2026.10.06-3",
+  "notes": "블로그 지수 「글별 진단」 의 검색 노출이 이제 그 글의 메인 키워드 순위입니다(100위까지) — 메인 키워드는 본문에 4~6번 되풀이한 말(목표 키워드를 등록해 두면 그것)\n「메인 키워드」 칸이 새로 생겼고, 제목 그대로 검색은 「누락 의심」 점검에만 씁니다\n복사 · 원고 폴더 · 사진정리 그대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.06-3.zip",
+  "sha256": "4824fcf8fe77e2852382e18d1b7fdca7dcfbcd08750350dcc5cbfd0e1d76991d",
+  "exe_sha256": "8c01a8214d9eb4ef1ea78346589e959298361ea0f5037df43b7ba30e35c68570",
+  "size": 41052946
 }
