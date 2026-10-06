@@ -18,3 +18,14 @@
 ## 블로그 원고기 (`blog-writer/`)
 
 모토모토 블로그 원고기(`모토모토-블로그원고.exe`)도 여기서 받는다 — `blog-writer/latest.json` · zip · sha256. 자세한 것은 `blog-writer/README.md`.
+
+## 사진정리 (`photo-sorter/`)
+
+모토모토 사진정리(사장님 PC 의 바탕화면 아이콘 판)도 여기서 받는다 — 판 **2026.10.06-1** 부터 프로그램 안 「업데이트」.
+켤 때와 6시간마다 `photo-sorter/latest.json` 을 보고, 새 판이면 화면 맨 위 「새 판이 있습니다」 → **「업데이트」 를 눌러야** 받는다.
+받는 쪽은 https · 이 자리(raw.githubusercontent.com/motmot-cafe/motmot-runner/)만 · zip 의 sha256 이 맞아야만 바꾼다.
+
+- `latest.json` — 판 번호 · 바뀐 점 · zip 주소 · sha256 · size
+- `photo-sorter-<판>.zip` — 지금 판(안에 `사진정리/…`) · 바로 앞 판 하나(되돌릴 때)
+- 올리기: 모토모토 저장소에서 `node tools/photo-sorter/publish.mjs <이 폴더> "바뀐 점"` → 커밋 · push.
+- 원고기와 함께 도는 사진정리는 원고기 업데이트로 바뀐다(이것과 따로).
