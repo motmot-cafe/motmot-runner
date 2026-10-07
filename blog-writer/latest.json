@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.07-2",
-  "notes": "블로그 지수 「이웃 찾기」 — 국내여행 · 맛집 · 카페 블로거 기준(분야 · 블로그 주제로 가리기) · 신청 화면은 붙여 넣고 보내기만",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-2.zip",
-  "sha256": "2983fee75cf28cbe2fedda83292be0b237b57ce35a5592eec4d7e5b78c401f27",
-  "exe_sha256": "a6c6ccfffc4f664a9515d618f4cd3df30996c38dc672ecc816589d671fb47f59",
-  "size": 40613211
+  "version": "2026.10.07-3",
+  "notes": "이웃 찾기 「서로이웃 신청 준비」 — 전용 창에서 서로이웃 고르기 · 메시지까지 채워 둡니다 · 보내기 단추만 누르면 「신청함」 저절로\n처음 한 번은 그 창에서 네이버 로그인",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-3.zip",
+  "sha256": "56ae830752948b772e11910322fec894ea3948e9c490564caf5faeda0d08ff2f",
+  "exe_sha256": "cda5408c68f7bb051b3999ac568b46b6355ca6c5dea3c0a40f369b9e9cb9b0ce",
+  "size": 40621948
 }
