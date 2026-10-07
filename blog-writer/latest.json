@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.06-3",
-  "notes": "블로그 지수 「글별 진단」 의 검색 노출이 이제 그 글의 메인 키워드 순위입니다(100위까지) — 메인 키워드는 본문에 4~6번 되풀이한 말(목표 키워드를 등록해 두면 그것)\n「메인 키워드」 칸이 새로 생겼고, 제목 그대로 검색은 「누락 의심」 점검에만 씁니다\n복사 · 원고 폴더 · 사진정리 그대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.06-3.zip",
-  "sha256": "4824fcf8fe77e2852382e18d1b7fdca7dcfbcd08750350dcc5cbfd0e1d76991d",
-  "exe_sha256": "8c01a8214d9eb4ef1ea78346589e959298361ea0f5037df43b7ba30e35c68570",
-  "size": 41052946
+  "version": "2026.10.07-1",
+  "notes": "블로그 지수에 「이웃 찾기」(서로이웃 · 반자동) — 후보 찾기 · 메시지 초안 · 「신청 화면 열기」(신청 단추는 직접) · 하루 한도 · 수락률",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-1.zip",
+  "sha256": "4e3f2691d8d0816edd8716822cfd9372579a864e2a63d7121b07baf66dc2144b",
+  "exe_sha256": "11989154fada9e973a11e722ca9f841b838d432e2c973b1548fa6d0d5f0a0389",
+  "size": 40612255
 }
