@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.07-1",
-  "notes": "블로그 지수에 「이웃 찾기」(서로이웃 · 반자동) — 후보 찾기 · 메시지 초안 · 「신청 화면 열기」(신청 단추는 직접) · 하루 한도 · 수락률",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-1.zip",
-  "sha256": "4e3f2691d8d0816edd8716822cfd9372579a864e2a63d7121b07baf66dc2144b",
-  "exe_sha256": "11989154fada9e973a11e722ca9f841b838d432e2c973b1548fa6d0d5f0a0389",
-  "size": 40612255
+  "version": "2026.10.07-2",
+  "notes": "블로그 지수 「이웃 찾기」 — 국내여행 · 맛집 · 카페 블로거 기준(분야 · 블로그 주제로 가리기) · 신청 화면은 붙여 넣고 보내기만",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-2.zip",
+  "sha256": "2983fee75cf28cbe2fedda83292be0b237b57ce35a5592eec4d7e5b78c401f27",
+  "exe_sha256": "a6c6ccfffc4f664a9515d618f4cd3df30996c38dc672ecc816589d671fb47f59",
+  "size": 40613211
 }
