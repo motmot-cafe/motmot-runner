@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.07-3",
-  "notes": "이웃 찾기 「서로이웃 신청 준비」 — 전용 창에서 서로이웃 고르기 · 메시지까지 채워 둡니다 · 보내기 단추만 누르면 「신청함」 저절로\n처음 한 번은 그 창에서 네이버 로그인",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.07-3.zip",
-  "sha256": "56ae830752948b772e11910322fec894ea3948e9c490564caf5faeda0d08ff2f",
-  "exe_sha256": "cda5408c68f7bb051b3999ac568b46b6355ca6c5dea3c0a40f369b9e9cb9b0ce",
-  "size": 40621948
+  "version": "2026.10.08-1",
+  "notes": "추천 조합의 단체 인원 칩이 150명까지 — 80 · 100 · 120 · 150명",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.08-1.zip",
+  "sha256": "a38cae9ef09205e81555124ed0ea42aef3cc861e9e5c2a467aee5f36661125bd",
+  "exe_sha256": "eabda1726cab514ed005ada10a7ef6d92dfd4f3d1f954b89ed911049194335e0",
+  "size": 41069576
 }
