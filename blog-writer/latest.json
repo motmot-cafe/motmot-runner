@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.08-1",
-  "notes": "추천 조합의 단체 인원 칩이 150명까지 — 80 · 100 · 120 · 150명",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.08-1.zip",
-  "sha256": "a38cae9ef09205e81555124ed0ea42aef3cc861e9e5c2a467aee5f36661125bd",
-  "exe_sha256": "eabda1726cab514ed005ada10a7ef6d92dfd4f3d1f954b89ed911049194335e0",
-  "size": 41069576
+  "version": "2026.10.13-3",
+  "notes": "제목 9개 모두 상호(카페 「모토모토」 · 그 밖 「모토모토리조트」) · 객실은 호수 대신 판매 이름\n펜션 · 풀빌라(개인) 글 플레이스 naver.me/FmGPnQRH · 리조트 플레이스는 홈페이지와 같이\n블로그 지수 — 메인 키워드는 원고에서 · 「고치기」 · 목표 키워드 표에 글별 메인 키워드 · 포스팅 비중(단체 75 · 개인 10 · 카페 15)과 다음 글 추천",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.13-3.zip",
+  "sha256": "e62b0c79476eb8b3fc072064144ce7a6841dee2636db30d985c9a538af4e7791",
+  "exe_sha256": "221a3f69dd23616bdbcfe58cc09d475bf925d4d83b94f04b145992e671cead1f",
+  "size": 41087666
 }
