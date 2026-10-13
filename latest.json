@@ -1,6 +1,6 @@
 {
-  "version": "0.8.9",
-  "notes": "「npm run why -- yanolja 2026-09-28 --days 34 --diff」 가 \"못 알아본 값: 34\" 로 멈추던 것을 고쳤습니다\n기록 도구(shapes)가 화면 주소 값(referer)을 가리지 않고 보여 줍니다 — 야놀자 방막기 요청을 똑같이 보내려면 이 값이 필요합니다\n(0.8.8 내용 그대로) 야놀자 읽기 · 못 알아본 상태는 할 일에서도 안 누름 · 방막기·방열기는 아직 잠금",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.8.9.zip",
-  "sha256": "b84223f65a7344cbfed8df0d760677d4fb92937442c9c90b903e3f4294bb17ef"
+  "version": "0.9.0",
+  "notes": "여기어때 판매 금액 · 입금 예정 금액을 이제 읽어 보냅니다 — 예전에는 칸 이름이 틀려 늘 빈칸이었습니다\n여기어때 연동 예약사이트(네이버예약) 손님을 「판매채널」 로 함께 보냅니다 — 대시보드가 네이버예약 · 7% 로 가릅니다\n금액 없이 들어와 있던 예약(퇴실 전)은 한 번 더 보내 빈 칸만 채웁니다 — 사장님이 적은 값은 안 바뀝니다\n업데이트 뒤 실행기가 안 뜨면 Windows 보안 「보호 기록」 에서 격리됐는지 보세요(이 자리의 실행기.exe 로 다시 받기)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.0.zip",
+  "sha256": "09cb9d2e5af102d9a768b0a06ad967d63bdf176d6aceefa0b0c5ce6fdb83da02"
 }
