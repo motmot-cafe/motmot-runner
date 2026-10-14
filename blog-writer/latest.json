@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.13-4",
-  "notes": "블로그 지수 → 이웃 찾기에 「오늘의 댓글」 — 이웃 블로그의 새 글을 읽고 글마다 다른 결로 댓글 초안\n「댓글 넣기」 를 누르면 전용 창에 댓글 칸까지 채웁니다 — 등록만 누르세요(누르면 「달았음」 저절로)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.13-4.zip",
-  "sha256": "f7386799b87b8e53846c065f6477dc2a07d1a858280a6a13ea5215880b5d1420",
-  "exe_sha256": "ef688b686349398a34cd88a3d497ee1dce489b7e78993cec5181b30b8189b21c",
-  "size": 41098659
+  "version": "2026.10.14-1",
+  "notes": "Claude 로그인 갱신이 다른 Claude 와 겹쳐도(「Failed to refresh OAuth token …」) 30초 · 60초 쉬고 저절로 다시 — 원고 · 고쳐 쓰기 · 생성창 · 이웃 댓글\n쉬는 동안 「오늘의 댓글」 진행 말에 「… 뒤 다시 부릅니다」 · 로그인 필요로 오해하지 않는다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.14-1.zip",
+  "sha256": "f57753b80cf031d03ced2301460c204b0aac8721c9fc555618f73093f2268be2",
+  "exe_sha256": "a915a904ade1c6195bb4daf8755070f8bf80c1db8a0cafaa52d68b39d99c8291",
+  "size": 41100960
 }
