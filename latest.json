@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "notes": "여기어때 판매 금액 · 입금 예정 금액을 이제 읽어 보냅니다 — 예전에는 칸 이름이 틀려 늘 빈칸이었습니다\n여기어때 연동 예약사이트(네이버예약) 손님을 「판매채널」 로 함께 보냅니다 — 대시보드가 네이버예약 · 7% 로 가릅니다\n금액 없이 들어와 있던 예약(퇴실 전)은 한 번 더 보내 빈 칸만 채웁니다 — 사장님이 적은 값은 안 바뀝니다\n업데이트 뒤 실행기가 안 뜨면 Windows 보안 「보호 기록」 에서 격리됐는지 보세요(이 자리의 실행기.exe 로 다시 받기)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.0.zip",
-  "sha256": "09cb9d2e5af102d9a768b0a06ad967d63bdf176d6aceefa0b0c5ce6fdb83da02"
+  "version": "0.9.1",
+  "notes": "「카톡 휴면방」 칸이 생겼습니다 — 아래 작은 단추 줄의 「카톡 휴면방」 을 누르세요\n이 PC 카카오톡 「채팅」 목록을 읽어 대시보드 「카톡 휴면방」 에 며칠째 대화 없는 방을 올립니다(직원 조회용)\n처음 한 번: 열쇠 넣기 → 지금 한 번 읽기 → 켜기 · 「윈도우 켤 때 저절로 켜기」 켬\n여기어때 실행기와 따로 돕니다 — 여기어때를 꺼도 카톡 수집은 계속됩니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.1.zip",
+  "sha256": "12d0477bae55aa4140d636bdf5f0f327c32d483d5966acccba0c0b52e0a31a29"
 }
