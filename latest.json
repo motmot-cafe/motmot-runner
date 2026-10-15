@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
-  "notes": "「카톡 휴면방」 칸이 생겼습니다 — 아래 작은 단추 줄의 「카톡 휴면방」 을 누르세요\n이 PC 카카오톡 「채팅」 목록을 읽어 대시보드 「카톡 휴면방」 에 며칠째 대화 없는 방을 올립니다(직원 조회용)\n처음 한 번: 열쇠 넣기 → 지금 한 번 읽기 → 켜기 · 「윈도우 켤 때 저절로 켜기」 켬\n여기어때 실행기와 따로 돕니다 — 여기어때를 꺼도 카톡 수집은 계속됩니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.1.zip",
-  "sha256": "12d0477bae55aa4140d636bdf5f0f327c32d483d5966acccba0c0b52e0a31a29"
+  "version": "0.9.2",
+  "notes": "카톡 휴면방 — 단체방을 잠깐 열어 정확한 방 이름을 읽습니다(글자 인식 오탈자가 사라집니다)\n이 PC 를 1분 넘게 아무도 안 만질 때만 엽니다 · 연 방은 읽음 처리됩니다(직원 폰도)\n「카톡 휴면방」 칸의 「방 열어 정확한 이름 읽기」 켬/끔으로 끌 수 있습니다\n설정을 바꿔도 수집기를 껐다 켜지 않습니다 · 끄기는 연 방 창을 정리한 뒤 꺼집니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.2.zip",
+  "sha256": "cd134f9a8481aed1e93d632d9e219eacc700d2ed3f4fd103a681a36e8b784d02"
 }
