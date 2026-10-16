@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
-  "notes": "실행기를 켜면(ON) 카톡 휴면방 수집기도 같이 켜지고, 주기는 「실시간(1분)」 이 기본입니다\nOFF 는 ON 을 누를 때까지 꺼져 있습니다(예전에는 5분 뒤 저절로 다시 켜졌습니다)\n카톡 목록을 끝까지 다 읽었는지 확인합니다 — 17방만 들어오던 일(수집기 판 2026.10.15-4)\n스페이스클라우드 홀 자동 막기 — 「스페이스클라우드」 칸에서 「호스트센터 로그인」 한 번(먼저 Supabase 에 supabase-129 SQL)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.3.zip",
-  "sha256": "d15ee10053ba31e8b39066bd769c90a75b6fdcd0c0d3fcc324792b78040903ed"
+  "version": "0.9.4",
+  "notes": "카톡 단체방의 정확한 이름을 더 많이 읽습니다 — 방을 목록 줄 누르기 대신 키보드(위·아래·엔터)로 골라 열어 창 제목을 읽습니다(수집기 판 2026.10.16-1)\n연 방이 고른 줄이 맞는지 창 제목으로 확인한 뒤에만 이름을 붙입니다 — 비슷한 이름의 방이 서로 이름을 가져가지 않게\n엔터로 방이 안 열리는 카톡이면 하루 동안 예전 방식(줄 누르기)으로 저절로 바꿉니다\n직원이 열어 둔 방 창은 닫지 않고, 최소화해 둔 창이 되살아나면 다시 최소화합니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.4.zip",
+  "sha256": "22691be4624a07ec9209b2ec55395354774f91fed63e25993187e67b266ea1af"
 }
