@@ -3,11 +3,11 @@
 사장님 PC 의 「모토모토 블로그 원고기」 가 켤 때와 6시간마다 여기의 `latest.json` 을 봅니다.
 새 판이면 시작 화면 맨 위에 **「새 판이 있습니다」** 가 뜹니다. **「업데이트」 를 눌러야** 받습니다 — 누르기 전에는 아무것도 바꾸지 않습니다.
 
-- 지금 판: **2026.10.14-1** — Claude 로그인 갱신이 다른 Claude 와 겹쳐도(「Failed to refresh OAuth token …」) 30초 · 60초 쉬고 저절로 다시 — 원고 · 고쳐 쓰기 · 생성창 · 이웃 댓글
-- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.14-1.zip
+- 지금 판: **2026.10.20-1** — 블로그 지수 — 「메인 노출」 칸(네이버 메인 첫 쪽 몇째 · 1일 · 3일 · 7일 기록) · 「고칠 점」(왜 그런지 · 바꿀 문장 · 제목안 복사 · AI 고칠안 · 수정 화면 열기 · 고쳤어요 · 다시 재기)
+- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.20-1.zip
 - `latest.json` — 판 번호 · 바뀐 점 · zip 주소 · sha256(zip) · exe_sha256(안의 exe) · size(zip 바이트)
-- `motmot-blog-writer-2026.10.14-1.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
-- `motmot-blog-writer-2026.10.13-4.zip` — 바로 앞 판(되돌릴 때)
+- `motmot-blog-writer-2026.10.20-1.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
+- `motmot-blog-writer-2026.10.14-1.zip` — 바로 앞 판(되돌릴 때)
 
 ## 원고기 안에서 업데이트 (보통은 이것)
 

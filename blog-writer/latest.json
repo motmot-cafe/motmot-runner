@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.14-1",
-  "notes": "Claude 로그인 갱신이 다른 Claude 와 겹쳐도(「Failed to refresh OAuth token …」) 30초 · 60초 쉬고 저절로 다시 — 원고 · 고쳐 쓰기 · 생성창 · 이웃 댓글\n쉬는 동안 「오늘의 댓글」 진행 말에 「… 뒤 다시 부릅니다」 · 로그인 필요로 오해하지 않는다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.14-1.zip",
-  "sha256": "f57753b80cf031d03ced2301460c204b0aac8721c9fc555618f73093f2268be2",
-  "exe_sha256": "a915a904ade1c6195bb4daf8755070f8bf80c1db8a0cafaa52d68b39d99c8291",
-  "size": 41100960
+  "version": "2026.10.20-1",
+  "notes": "블로그 지수 — 「메인 노출」 칸(네이버 메인 첫 쪽 몇째 · 1일 · 3일 · 7일 기록) · 「고칠 점」(왜 그런지 · 바꿀 문장 · 제목안 복사 · AI 고칠안 · 수정 화면 열기 · 고쳤어요 · 다시 재기)\n원고기 — 제목에 다른 지역(가평 …) 안 넣음 · 메인 키워드 5~6번은 본문 #태그 줄까지 · 「신축」 금지 · 같은 키워드 14일 경고 · 첫 장면 · 소제목 부제 돌리기 · 이미 올린 원고 다시 복사하면 묻기",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.20-1.zip",
+  "sha256": "eba1770bc48db18154d43ad7339b5bdb7ff3fc99bb3c029d306fb24889381189",
+  "exe_sha256": "632a43ae11060109be4aeca1f8185358596d869eb1bcbffe3ecddf46d2892101",
+  "size": 40690514
 }
