@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.20-1",
-  "notes": "블로그 지수 — 「메인 노출」 칸(네이버 메인 첫 쪽 몇째 · 1일 · 3일 · 7일 기록) · 「고칠 점」(왜 그런지 · 바꿀 문장 · 제목안 복사 · AI 고칠안 · 수정 화면 열기 · 고쳤어요 · 다시 재기)\n원고기 — 제목에 다른 지역(가평 …) 안 넣음 · 메인 키워드 5~6번은 본문 #태그 줄까지 · 「신축」 금지 · 같은 키워드 14일 경고 · 첫 장면 · 소제목 부제 돌리기 · 이미 올린 원고 다시 복사하면 묻기",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.20-1.zip",
-  "sha256": "eba1770bc48db18154d43ad7339b5bdb7ff3fc99bb3c029d306fb24889381189",
-  "exe_sha256": "632a43ae11060109be4aeca1f8185358596d869eb1bcbffe3ecddf46d2892101",
-  "size": 40690514
+  "version": "2026.10.21-1",
+  "notes": "화면 정리 — 블로그 지수는 「글 고치기」 부터(오늘 고칠 글 · 글별 표 5칸 · 고칠 것/확인/참고/좋음 · 순위 색 하나 · 7일 전은 그 글 순위) · 「지수 현황」 · 이웃 · 댓글 나눠 보기 · 이웃 설정은 설정 탭\n원고기 시작 화면 — 탭을 열면 상태 한 줄 띠 · 가운데 단추 셋 · 최근 원고 탭 · 원고기 끄기는 설정 · 한도 쉼 먼저 · 생성창 — ⚠ 검수 먼저 · 바로 복사 띠 · 결과에서 올림 표시 · 사진 「안 씀」",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.21-1.zip",
+  "sha256": "4433ab89722b62202313b042a35dec8ae7864dde546781ca96582c2a3fae3be0",
+  "exe_sha256": "2b4c58b95181932e56a992f53dfb9efb94c3b331029bafcbd4e3fbc816a31955",
+  "size": 40707677
 }
