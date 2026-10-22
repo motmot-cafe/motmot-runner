@@ -1,6 +1,6 @@
 {
-  "version": "0.9.7",
-  "notes": "관리자 화면 「카톡 휴면방」 의 「지금 읽기」 를 누르면 이 PC 의 카톡 수집기가 바로 다시 읽습니다(수집기 판 2026.10.22-1)\n새로 만든 톡방이 1시간을 기다리지 않고 들어옵니다 — 이 PC 를 쓰는 중이면 손을 뗄 때까지 기다렸다 읽습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.7.zip",
-  "sha256": "2edeb17166d96504933c27a19da93fd73a401dcda366730ce63ca72c7e4cf0ac"
+  "version": "0.9.8",
+  "notes": "카톡을 여러 개 켜 둔 PC 에서 업무 카톡만 읽습니다(수집기 판 2026.10.22-2) — 이 윈도우 사용자로 · 샌드박스 밖에서 켠 카톡 하나만\n개인 카톡은 샌드박스(Sandboxie) · 다른 윈도우 사용자로 띄워 주세요. 헷갈리면 그 회차는 읽지도 열지도 않고 휴면방 화면에 까닭을 알립니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.8.zip",
+  "sha256": "6e53d4ab5ab2fbc835ad210e47990026dd83da1a6f75f44d9c0356dcf796e9e7"
 }
