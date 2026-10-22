@@ -1,6 +1,6 @@
 {
-  "version": "0.9.6",
-  "notes": "카톡 휴면방 「지금 한 번 읽기」 가 이제 단체방도 바로 엽니다 — 누른 뒤 위 상태가 「읽는 중」 에서 바뀔 때까지 이 PC 를 만지지 마세요(만지면 방 열기를 멈춥니다)\n방을 몇 개 열었고 왜 멈췄는지가 관리자 「카톡 휴면방」 화면 위에 한 줄로 보입니다(수집기 판 2026.10.19-1)\n「카톡만 끄기」 · OFF 를 누르면 남은 「지금 읽기」 부탁도 거둡니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.6.zip",
-  "sha256": "bef547e76de40801c7e67f810ca9141d107eed722e1202cf32dddf8c76a20e80"
+  "version": "0.9.7",
+  "notes": "관리자 화면 「카톡 휴면방」 의 「지금 읽기」 를 누르면 이 PC 의 카톡 수집기가 바로 다시 읽습니다(수집기 판 2026.10.22-1)\n새로 만든 톡방이 1시간을 기다리지 않고 들어옵니다 — 이 PC 를 쓰는 중이면 손을 뗄 때까지 기다렸다 읽습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.7.zip",
+  "sha256": "2edeb17166d96504933c27a19da93fd73a401dcda366730ce63ca72c7e4cf0ac"
 }
