@@ -1,6 +1,7 @@
 {
-  "version": "0.9.10",
-  "notes": "새 카톡방을 1~2분 안에 읽습니다(수집기 판 2026.10.23-2) — 쉬는 동안 1분마다 카톡 목록의 지금 보이는 한 화면만 보고, 새 방이면 바로 읽습니다\n업무 카톡 창은 최소화하지 말고 열어 두세요(다른 창 뒤에 가려져도 됩니다)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.10.zip",
-  "sha256": "aa96dfbbdc45742d6fdef01e718ed08476940c5768e166b2a87de6a5f41d273a"
+  "version": "0.9.11",
+  "notes": "화면 맨 위 판 옆에 「새 버전 확인」 단추 — 누르면 바로 새 판을 찾고, 있으면 한 번 물은 뒤 받아서 바꿉니다(껐다 켜지 않아도 됩니다)\n저절로 찾기도 6시간 → 1시간마다\n카톡 수집기 판 2026.10.23-3 — 관리자 「카톡 휴면방」 이 서버 PC 실행기가 옛 판인지 알려 줍니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.11.zip",
+  "sha256": "df4f4e82375ea5f2752db4fac79f6c3b0934cf89f5afd22faa0e86519ac84b53",
+  "kakao": "2026.10.23-3"
 }
