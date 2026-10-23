@@ -1,6 +1,6 @@
 {
-  "version": "0.9.9",
-  "notes": "카톡 휴면방 수집기가 날짜(「2026-10-21」)로 보이는 방의 이름도 찾습니다(수집기 판 2026.10.23-1)\n업데이트 뒤 「지금 한 번 읽기」 를 한 번 눌러 주세요 — 예전에 못 찾던 단체방을 열어 정확한 이름을 읽습니다(1~2분 PC 를 만지지 마세요)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.9.zip",
-  "sha256": "2dfcf6af9b7a72c5eb72ba2773638f49b5d7c3109e65c37621edee7a808fc7b9"
+  "version": "0.9.10",
+  "notes": "새 카톡방을 1~2분 안에 읽습니다(수집기 판 2026.10.23-2) — 쉬는 동안 1분마다 카톡 목록의 지금 보이는 한 화면만 보고, 새 방이면 바로 읽습니다\n업무 카톡 창은 최소화하지 말고 열어 두세요(다른 창 뒤에 가려져도 됩니다)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/pension-sync-0.9.10.zip",
+  "sha256": "aa96dfbbdc45742d6fdef01e718ed08476940c5768e166b2a87de6a5f41d273a"
 }
