@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.21-1",
-  "notes": "화면 정리 — 블로그 지수는 「글 고치기」 부터(오늘 고칠 글 · 글별 표 5칸 · 고칠 것/확인/참고/좋음 · 순위 색 하나 · 7일 전은 그 글 순위) · 「지수 현황」 · 이웃 · 댓글 나눠 보기 · 이웃 설정은 설정 탭\n원고기 시작 화면 — 탭을 열면 상태 한 줄 띠 · 가운데 단추 셋 · 최근 원고 탭 · 원고기 끄기는 설정 · 한도 쉼 먼저 · 생성창 — ⚠ 검수 먼저 · 바로 복사 띠 · 결과에서 올림 표시 · 사진 「안 씀」",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.21-1.zip",
-  "sha256": "4433ab89722b62202313b042a35dec8ae7864dde546781ca96582c2a3fae3be0",
-  "exe_sha256": "2b4c58b95181932e56a992f53dfb9efb94c3b331029bafcbd4e3fbc816a31955",
-  "size": 40707677
+  "version": "2026.10.24-1",
+  "notes": "원고 보관함은 생성창 하나 — 시작 화면 「원고 보관함」 탭은 입구 카드(보관함 열기 · 새 원고 · 원고 추가 · 옛 원고 · 촬영 목록) · 생성창 보관함 줄마다 검수 표지 · 넣을 주인 · 옛 원고 · 촬영 목록 코드 거르기 · 지수 점검\n원고 화면 단계형 — ① 글 · ② 검수 · ③ 사진 · ④ 올리기(넓은 화면은 ① 옆에 ②) · 바로 복사는 위 띠에 · 누른 뒤 고쳤으면 AI 결과는 사본",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.24-1.zip",
+  "sha256": "34c95f8c1a93c22f8df2c3766d04c858ca06a99db281cae7b3240c1fb14b4872",
+  "exe_sha256": "bfcbf4094d729d81ece879bf843cc0e0a1b227082b2be51df2f31961066de9a1",
+  "size": 40716218
 }
