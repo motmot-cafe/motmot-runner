@@ -3,11 +3,11 @@
 사장님 PC 의 「모토모토 블로그 원고기」 가 켤 때와 6시간마다 여기의 `latest.json` 을 봅니다.
 새 판이면 시작 화면 맨 위에 **「새 판이 있습니다」** 가 뜹니다. **「업데이트」 를 눌러야** 받습니다 — 누르기 전에는 아무것도 바꾸지 않습니다.
 
-- 지금 판: **2026.10.24-1** — 원고 보관함은 생성창 하나 — 시작 화면 「원고 보관함」 탭은 입구 카드(보관함 열기 · 새 원고 · 원고 추가 · 옛 원고 · 촬영 목록) · 생성창 보관함 줄마다 검수 표지 · 넣을 주인 · 옛 원고 · 촬영 목록 코드 거르기 · 지수 점검
-- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.24-1.zip
+- 지금 판: **2026.10.27-1** — 블로그 지수 글별 진단은 블로그 글 전체(300편까지) — 고칠 점 · 메인 키워드 순위 · 검색 누락 · 우리 글끼리 겹침 · 지수 점수 · 등급 · 추이는 그대로 최근 글(설정 「점수에 쓰는 최근 글 수」) · 설정 「글별 진단: 블로그 글 전체」(처음 켬)
+- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.27-1.zip
 - `latest.json` — 판 번호 · 바뀐 점 · zip 주소 · sha256(zip) · exe_sha256(안의 exe) · size(zip 바이트)
-- `motmot-blog-writer-2026.10.24-1.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
-- `motmot-blog-writer-2026.10.21-1.zip` — 바로 앞 판(되돌릴 때)
+- `motmot-blog-writer-2026.10.27-1.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
+- `motmot-blog-writer-2026.10.24-1.zip` — 바로 앞 판(되돌릴 때)
 
 ## 원고기 안에서 업데이트 (보통은 이것)
 

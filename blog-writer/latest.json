@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.24-1",
-  "notes": "원고 보관함은 생성창 하나 — 시작 화면 「원고 보관함」 탭은 입구 카드(보관함 열기 · 새 원고 · 원고 추가 · 옛 원고 · 촬영 목록) · 생성창 보관함 줄마다 검수 표지 · 넣을 주인 · 옛 원고 · 촬영 목록 코드 거르기 · 지수 점검\n원고 화면 단계형 — ① 글 · ② 검수 · ③ 사진 · ④ 올리기(넓은 화면은 ① 옆에 ②) · 바로 복사는 위 띠에 · 누른 뒤 고쳤으면 AI 결과는 사본",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.24-1.zip",
-  "sha256": "34c95f8c1a93c22f8df2c3766d04c858ca06a99db281cae7b3240c1fb14b4872",
-  "exe_sha256": "bfcbf4094d729d81ece879bf843cc0e0a1b227082b2be51df2f31961066de9a1",
-  "size": 40716218
+  "version": "2026.10.27-1",
+  "notes": "블로그 지수 글별 진단은 블로그 글 전체(300편까지) — 고칠 점 · 메인 키워드 순위 · 검색 누락 · 우리 글끼리 겹침 · 지수 점수 · 등급 · 추이는 그대로 최근 글(설정 「점수에 쓰는 최근 글 수」) · 설정 「글별 진단: 블로그 글 전체」(처음 켬)\n옛 글을 네이버가 잠깐 막아도 그날 점수 · 기록은 남고 못 본 글은 글 고치기 탭 위에 알림 · 「지금 진단하기」 가 걸릴 시간을 알려 줌(글 한 편에 4초쯤) · 메인 노출은 그대로 발행 30일 안 글만",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.27-1.zip",
+  "sha256": "f57c90dc40d803addf3285cfb65eb12e8fa4aa82eab434b0b746fcb9dba2dfb4",
+  "exe_sha256": "7b8dcbc7fb5c56e70bb647ee9ba19189fbfa99adf6b333b09c73c630e642d083",
+  "size": 40721041
 }
