@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.04-2",
-  "notes": "QnA 은행 늘림 · 구성 틀 돌리기 · 실제 사례(생성창 칸 · 원고 기본 사례 은행)\n올린 글 제목을 쓰기 전에 · 우리 블로그 글 매일 모으기",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-2.zip",
-  "sha256": "716920bf1c3fa3b1ccb57d05e8ae52f9b749f64c100e6c1102cc3d78af3b2342",
-  "exe_sha256": "bf7616253ac2dd1cf09aed90cd5bdbc98043b6c760da6bc3074d98cee80fcc07",
-  "size": 40751125
+  "version": "2026.11.04-3",
+  "notes": "시작 화면 「접속 코드」 탭 — motmot.co.kr/write 접속 코드를 이 PC 에서 만들기 · 이름 · 끊기(원문은 한 번만)\n처음 한 번 창구 SQL supabase-146-write-codes.sql 필요",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-3.zip",
+  "sha256": "a7e6337f96c09b68bd9a7be34e59cc0aa26031364b9c48e10d11ebadb304cd4e",
+  "exe_sha256": "0f5e399e10b2a69647e75d8995182c5bb46d5224000aab1cc9434675a7564edb",
+  "size": 40756151
 }
