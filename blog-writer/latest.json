@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.28-1",
-  "notes": "블로그 지수 「메인 검색 진단」 — 블로그 탭 1위인데 메인(통합검색) 첫 쪽 밖인 까닭과 할 일: 글 고치기 탭에 블로그 전체 판정 · 우리 블로그에서 본 까닭 · 할 일(바로 · 1~2주 · 1~2개월 · 3~6개월) · 하지 말 것\n글을 펼치면 그 키워드의 메인 첫 쪽을 누가 차지했나(블로그 · 카페 · 웹 칸 · 남의 후기 · 우리 업체를 다룬 남의 글) · 제목 그대로 찾아 없으면 둘째 쪽부터 80위까지 봄(하루 3편)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.10.28-1.zip",
-  "sha256": "d5730a2715a845e1844e6997e4f08ca3977f7fb7f90eb7ff8925f971bdb1dd59",
-  "exe_sha256": "d7b4fa1ee0e0414bccea35899618023d80a334d82b314c4d2e6d608df9f97deb",
-  "size": 40734646
+  "version": "2026.11.04-1",
+  "notes": "포스팅 비중 전체 · 최근 30일 · 제목 다양화(상호 자리 · 틀 섞기)\n동시 원고 비교 · 잠깐의 막힘 다시 · 같은 키워드 각도 · 사진 되풀이 줄이기 · 원고 점검 · 정원 · 대실 · 테이크아웃 질문 정리",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-1.zip",
+  "sha256": "7a5ae167581468cc3c4fc2ce361e45552c53e352589c74ea13f641143a76fc12",
+  "exe_sha256": "d1e5bd02f8d68b8efbcb75846484a373248f479d2d3fe5898f73094dd737a9e7",
+  "size": 40742632
 }
