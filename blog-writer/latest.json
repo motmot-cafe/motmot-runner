@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.04-3",
-  "notes": "시작 화면 「접속 코드」 탭 — motmot.co.kr/write 접속 코드를 이 PC 에서 만들기 · 이름 · 끊기(원문은 한 번만)\n처음 한 번 창구 SQL supabase-146-write-codes.sql 필요",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-3.zip",
-  "sha256": "a7e6337f96c09b68bd9a7be34e59cc0aa26031364b9c48e10d11ebadb304cd4e",
-  "exe_sha256": "0f5e399e10b2a69647e75d8995182c5bb46d5224000aab1cc9434675a7564edb",
-  "size": 40756151
+  "version": "2026.11.04-4",
+  "notes": "블로그 지수 — 글별 진단의 메인 검색을 30일 넘은 글까지(7일마다 돌아가며 · 진단마다 12번)\n같은 키워드를 새 글로 찾는 날은 옛 글도 같이 봄 · 전체 글 설정을 끄면 예전대로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-4.zip",
+  "sha256": "242d8a32edd2067bc930b76ad049430b3810d46438882ea385b0d5a9e89ac25e",
+  "exe_sha256": "d893b0ebd5c71409d7ab46ee3860c1d652f4c52311a36ffae041d801633beebe",
+  "size": 40757119
 }
