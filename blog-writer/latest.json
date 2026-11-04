@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.04-1",
-  "notes": "포스팅 비중 전체 · 최근 30일 · 제목 다양화(상호 자리 · 틀 섞기)\n동시 원고 비교 · 잠깐의 막힘 다시 · 같은 키워드 각도 · 사진 되풀이 줄이기 · 원고 점검 · 정원 · 대실 · 테이크아웃 질문 정리",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-1.zip",
-  "sha256": "7a5ae167581468cc3c4fc2ce361e45552c53e352589c74ea13f641143a76fc12",
-  "exe_sha256": "d1e5bd02f8d68b8efbcb75846484a373248f479d2d3fe5898f73094dd737a9e7",
-  "size": 40742632
+  "version": "2026.11.04-2",
+  "notes": "QnA 은행 늘림 · 구성 틀 돌리기 · 실제 사례(생성창 칸 · 원고 기본 사례 은행)\n올린 글 제목을 쓰기 전에 · 우리 블로그 글 매일 모으기",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-2.zip",
+  "sha256": "716920bf1c3fa3b1ccb57d05e8ae52f9b749f64c100e6c1102cc3d78af3b2342",
+  "exe_sha256": "bf7616253ac2dd1cf09aed90cd5bdbc98043b6c760da6bc3074d98cee80fcc07",
+  "size": 40751125
 }
