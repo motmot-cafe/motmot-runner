@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.04-4",
-  "notes": "블로그 지수 — 글별 진단의 메인 검색을 30일 넘은 글까지(7일마다 돌아가며 · 진단마다 12번)\n같은 키워드를 새 글로 찾는 날은 옛 글도 같이 봄 · 전체 글 설정을 끄면 예전대로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-4.zip",
-  "sha256": "242d8a32edd2067bc930b76ad049430b3810d46438882ea385b0d5a9e89ac25e",
-  "exe_sha256": "d893b0ebd5c71409d7ab46ee3860c1d652f4c52311a36ffae041d801633beebe",
-  "size": 40757119
+  "version": "2026.11.04-5",
+  "notes": "화면을 새로 — 홈페이지 색(크림 · 세이지 · 금색)으로 밝고 가볍게 · 왼쪽 길잡이 · 홈에 새 원고 칸 · 숫자 띠 · 오늘 할 일\n예전 탭은 설정 안으로 · 블로그 지수도 같은 색 · 화면 색은 PC 따라(설정에서 밝게 · 어둡게)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-5.zip",
+  "sha256": "5b99e30d463a746cc97de20a44728301260292c44c40b1e073299490071d13ac",
+  "exe_sha256": "4cb006b3bb06e9a309667c02bcd0891697138750562dc2258b785484de745929",
+  "size": 40764939
 }
