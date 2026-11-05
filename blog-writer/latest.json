@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.05-2",
-  "notes": "원고 글 품질 — 서론 · 본문에 「이 글은 …」 · 「… 순서로 말씀드릴게요」 같은 목차 말을 쓰지 않고, 시설 부제 · 파트 첫 문장을 서로 다르게 씁니다\nQnA 검색 질문은 이 글의 키워드 · 대상으로 — 회사 워크샵 글에 대학 MT · 교회 질문이 안 들어갑니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-2.zip",
-  "sha256": "531499eaa51f5e56e62ae614a03e44d9c2638fda978167b91b5cea6a10744ada",
-  "exe_sha256": "91cb879985a4519a1a754dc16d06a032f5940b2b88da59f6937487e5898ed44f",
-  "size": 40774123,
+  "version": "2026.11.05-3",
+  "notes": "생성창(새 원고 · 원고 보관함)도 원고기와 같은 화면 — 크림 · 세이지 색과 왼쪽 길잡이 · 화면 색(밝게 · 어둡게)도 설정을 따릅니다\n길잡이를 눌러 나가도 고친 원고는 먼저 저장합니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-3.zip",
+  "sha256": "d12483e9e0165b0239b0145dd9833d09457c7ce7b3b5974cefdcc472f7ed6316",
+  "exe_sha256": "c6c34debeffb55ea94e384965d6ab901cdacdedd2d6167543199434a212563dd",
+  "size": 40778330,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"

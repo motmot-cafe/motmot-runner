@@ -3,11 +3,11 @@
 사장님 PC 의 「모토모토 블로그 원고기」 가 켤 때와 6시간마다 여기의 `latest.json` 을 봅니다.
 새 판이면 시작 화면 맨 위에 **「새 판이 있습니다」** 가 뜹니다. **「업데이트」 를 눌러야** 받습니다 — 누르기 전에는 아무것도 바꾸지 않습니다.
 
-- 지금 판: **2026.11.05-2** — 원고 글 품질 — 서론 · 본문에 「이 글은 …」 · 「… 순서로 말씀드릴게요」 같은 목차 말을 쓰지 않고, 시설 부제 · 파트 첫 문장을 서로 다르게 씁니다
-- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-2.zip
+- 지금 판: **2026.11.05-3** — 생성창(새 원고 · 원고 보관함)도 원고기와 같은 화면 — 크림 · 세이지 색과 왼쪽 길잡이 · 화면 색(밝게 · 어둡게)도 설정을 따릅니다
+- 받는 주소(손으로 받을 때): https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-3.zip
 - `latest.json` — 판 번호 · 바뀐 점 · zip 주소 · sha256(zip) · exe_sha256(안의 exe) · size(zip 바이트)
-- `motmot-blog-writer-2026.11.05-2.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
-- `motmot-blog-writer-2026.11.05-1.zip` — 바로 앞 판(되돌릴 때)
+- `motmot-blog-writer-2026.11.05-3.zip` — 지금 판(안에 `모토모토-블로그원고.exe` 하나)
+- `motmot-blog-writer-2026.11.05-2.zip` — 바로 앞 판(되돌릴 때)
 
 ## 원고기 안에서 업데이트 (보통은 이것)
 
