@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.04-5",
-  "notes": "화면을 새로 — 홈페이지 색(크림 · 세이지 · 금색)으로 밝고 가볍게 · 왼쪽 길잡이 · 홈에 새 원고 칸 · 숫자 띠 · 오늘 할 일\n예전 탭은 설정 안으로 · 블로그 지수도 같은 색 · 화면 색은 PC 따라(설정에서 밝게 · 어둡게)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-5.zip",
-  "sha256": "5b99e30d463a746cc97de20a44728301260292c44c40b1e073299490071d13ac",
-  "exe_sha256": "4cb006b3bb06e9a309667c02bcd0891697138750562dc2258b785484de745929",
-  "size": 40764939
+  "version": "2026.11.04-6",
+  "notes": "블로그 지수 글별 진단을 새 표로 — 날짜 · 글 · 메인 키워드 · 블로그 검색 · 메인 검색 · 상태 · 할 일 · 「전체 / 고칠 점 있는 글」 단추\n고칠 점을 누르면 무엇이 문제인지 한 줄과 단추(네이버 수정 화면 · AI 제안 · 다시 재기)가 먼저 · 폰에서는 글마다 카드",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.04-6.zip",
+  "sha256": "8a92e4a3c3ef66fb7ee0cc17955156fa3abb840f4f6e3c46a4089054ca5097e5",
+  "exe_sha256": "cd30fd2f9972ce19578ad7af371bd7e87f46a21921f7e780472aacda03651159",
+  "size": 40765720
 }
