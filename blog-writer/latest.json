@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.05-3",
-  "notes": "생성창(새 원고 · 원고 보관함)도 원고기와 같은 화면 — 크림 · 세이지 색과 왼쪽 길잡이 · 화면 색(밝게 · 어둡게)도 설정을 따릅니다\n길잡이를 눌러 나가도 고친 원고는 먼저 저장합니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-3.zip",
-  "sha256": "d12483e9e0165b0239b0145dd9833d09457c7ce7b3b5974cefdcc472f7ed6316",
-  "exe_sha256": "c6c34debeffb55ea94e384965d6ab901cdacdedd2d6167543199434a212563dd",
-  "size": 40778330,
+  "version": "2026.11.05-4",
+  "notes": "첫 화면이 블로그 지수 대시보드로 바뀌었습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-4.zip",
+  "sha256": "ac129c3292d05d85f03c13567525d1e8c7a1ff20246ace3f429334bd6a1f3b20",
+  "exe_sha256": "200e97dbf2f2c69db7f6e62d9f9439c42316866c61137fe2db5dbca7df44f760",
+  "size": 40796568,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
