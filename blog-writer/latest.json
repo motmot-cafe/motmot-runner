@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.05-4",
-  "notes": "첫 화면이 블로그 지수 대시보드로 바뀌었습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-4.zip",
-  "sha256": "ac129c3292d05d85f03c13567525d1e8c7a1ff20246ace3f429334bd6a1f3b20",
-  "exe_sha256": "200e97dbf2f2c69db7f6e62d9f9439c42316866c61137fe2db5dbca7df44f760",
-  "size": 40796568,
+  "version": "2026.11.05-5",
+  "notes": "블로그 지수 대시보드가 비어 보이던 것을 고쳤습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-5.zip",
+  "sha256": "029e68cc0ab3c888f2449ce85afc4f7c5d1ca01255248573c67c6a07cb9b247e",
+  "exe_sha256": "b407ec6860b9489660eca4b44b4feffa2c9dd59b6fca8c9ffc612384801a0b1d",
+  "size": 40796619,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
