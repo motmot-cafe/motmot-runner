@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-8",
-  "notes": "홈 오늘 할 일에 규칙 검사 · 확인 필요 사실 · 안 올린 원고 · 찍을 사진 수",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-8.zip",
-  "sha256": "07c46dc47f5cb9b85c0f7e9f2af3773ce1f7bfe2a314be721f8fdf0680aeed50",
-  "exe_sha256": "7ea91e7f2c54416f625b7a400012dd3bfe3a9247e4db2a1ced8c98c285c4d700",
-  "size": 40818133,
+  "version": "2026.11.06-9",
+  "notes": "글쓰기 입구 하나 — 서버 PC 의 새 원고는 이 PC 생성창으로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-9.zip",
+  "sha256": "ac0483a15795dcb7947bd0532dd5aa6792b20b498e4c6d8fb53f32c22bc0d830",
+  "exe_sha256": "1bc153d327a18e897fbf67ae61e91c8bacb00e8a16493d8ce9bde037f9e35218",
+  "size": 40817854,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
