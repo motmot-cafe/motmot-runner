@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-7",
-  "notes": "생성창 사진 단계 — 거르기 · 사진마다 카드 · 후보 확인 표지",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-7.zip",
-  "sha256": "350add09fbd136a27056e230ba38e422a8d9afab7fc29c18c351b97662a4d9b3",
-  "exe_sha256": "c7a3c9d284cbc98552a35efa3844d224b8ff766cb299e5a8a65b36bee8c259d9",
-  "size": 40815800,
+  "version": "2026.11.06-8",
+  "notes": "홈 오늘 할 일에 규칙 검사 · 확인 필요 사실 · 안 올린 원고 · 찍을 사진 수",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-8.zip",
+  "sha256": "07c46dc47f5cb9b85c0f7e9f2af3773ce1f7bfe2a314be721f8fdf0680aeed50",
+  "exe_sha256": "7ea91e7f2c54416f625b7a400012dd3bfe3a9247e4db2a1ced8c98c285c4d700",
+  "size": 40818133,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
