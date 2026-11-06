@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-14",
-  "notes": "긴 설명은 「자세히」로 접기 · 견주기 점 누르면 어떤 블로그인지",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-14.zip",
-  "sha256": "f98d670aea25478bb66ff99a19ed3269163282482cea26d20c60d2ee451f37f1",
-  "exe_sha256": "d58de522854e40c42dd0b3918f8857d895ee7c6807a51cd5650d7030a5dca219",
-  "size": 40831466,
+  "version": "2026.11.06-15",
+  "notes": "블로그 지수 판정 말 하나로 — 고칠 것 · 확인 · 참고 · AI 제안",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-15.zip",
+  "sha256": "e659a648fb8cfea7249ef1d7dd9f2053e2a98ef8f57f002e100d8b5d05dd9909",
+  "exe_sha256": "5b00d7f98fbbd92111b17b4e7e99a37f3e427a1e19db01ebd7b8006261e777b5",
+  "size": 40831545,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
