@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-12",
-  "notes": "생성창 웹 길잡이 네 칸 · 폰은 아래",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-12.zip",
-  "sha256": "a729c6c9887468e5782e8c77a4c226ea3818235970a31aa114ee7bb08cc768fc",
-  "exe_sha256": "c9e28dd91381b9dc023cdbe562bd1e6b4b2170b3dac62d01b4558d25eacdbfc1",
-  "size": 40826984,
+  "version": "2026.11.06-13",
+  "notes": "화면 낱말 하나로 — 원고기 켜짐 · 규칙 검사 · 찍을 사진 · 못 씀",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-13.zip",
+  "sha256": "5a2b0b58f3c29fbf88e51fd5a7bc38fad76fa1775d9fe74501a9f8985943ba03",
+  "exe_sha256": "6e630b8eee9c7cde75e9d46ea66104988b1e1225b636e0904566eb8fedd37bca",
+  "size": 40827064,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
