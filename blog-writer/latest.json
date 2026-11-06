@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-13",
-  "notes": "화면 낱말 하나로 — 원고기 켜짐 · 규칙 검사 · 찍을 사진 · 못 씀",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-13.zip",
-  "sha256": "5a2b0b58f3c29fbf88e51fd5a7bc38fad76fa1775d9fe74501a9f8985943ba03",
-  "exe_sha256": "6e630b8eee9c7cde75e9d46ea66104988b1e1225b636e0904566eb8fedd37bca",
-  "size": 40827064,
+  "version": "2026.11.06-14",
+  "notes": "긴 설명은 「자세히」로 접기 · 견주기 점 누르면 어떤 블로그인지",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-14.zip",
+  "sha256": "f98d670aea25478bb66ff99a19ed3269163282482cea26d20c60d2ee451f37f1",
+  "exe_sha256": "d58de522854e40c42dd0b3918f8857d895ee7c6807a51cd5650d7030a5dca219",
+  "size": 40831466,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
