@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-5",
-  "notes": "생성창이 다섯 단계로 — 원고 확인 화면에 글과 규칙 검사를 함께",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-5.zip",
-  "sha256": "5dc7002fb712238c5cf7519dfc22e9916d1594084079518016462a739602c8fa",
-  "exe_sha256": "fbb405d2e5d5fd76b14c15cd5c1b74fdb969a11956e7594d02c94e79be95e4f9",
-  "size": 40808220,
+  "version": "2026.11.06-6",
+  "notes": "생성창 요청 화면을 짧게 — 주제 · 키워드만 펼치고 나머지는 접기",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-6.zip",
+  "sha256": "cba0580bab8e32fbe6b08aefd2e91707ac866910b418f77422070cff751f233f",
+  "exe_sha256": "9a455c00fc256174b256ca8a7a31f9642b3768ec500d89ba85d48524076e4fba",
+  "size": 40814187,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
