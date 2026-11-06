@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-6",
-  "notes": "생성창 요청 화면을 짧게 — 주제 · 키워드만 펼치고 나머지는 접기",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-6.zip",
-  "sha256": "cba0580bab8e32fbe6b08aefd2e91707ac866910b418f77422070cff751f233f",
-  "exe_sha256": "9a455c00fc256174b256ca8a7a31f9642b3768ec500d89ba85d48524076e4fba",
-  "size": 40814187,
+  "version": "2026.11.06-7",
+  "notes": "생성창 사진 단계 — 거르기 · 사진마다 카드 · 후보 확인 표지",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-7.zip",
+  "sha256": "350add09fbd136a27056e230ba38e422a8d9afab7fc29c18c351b97662a4d9b3",
+  "exe_sha256": "c7a3c9d284cbc98552a35efa3844d224b8ff766cb299e5a8a65b36bee8c259d9",
+  "size": 40815800,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
