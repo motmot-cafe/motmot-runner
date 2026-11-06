@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-10",
-  "notes": "허브 이동 — 원고 보관함 바로 열기 · 생성창은 길잡이 하나 · 폰은 아래 길잡이",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-10.zip",
-  "sha256": "76e9ad864dbb6644018792d7e55b7a89185c4368adf54693fb54255f171082ea",
-  "exe_sha256": "2d2775392e3cae63d3cadd7374f567e34c598f53e5477168930a6ba107622e8c",
-  "size": 40818936,
+  "version": "2026.11.06-11",
+  "notes": "블로그 지수 견주기 — 블로그 탭 블로그까지 · 축 고르기 · 크게 보기",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-11.zip",
+  "sha256": "668b0a10aed988d9514bd738133e6ffd9da544cff39ca64a44b8e7ade563e23a",
+  "exe_sha256": "71ed30c107fa6d7670c2bbc8e07795ba5f7f7a86f7db2f3811af4df0f73bee4d",
+  "size": 40824759,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
