@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-11",
-  "notes": "블로그 지수 견주기 — 블로그 탭 블로그까지 · 축 고르기 · 크게 보기",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-11.zip",
-  "sha256": "668b0a10aed988d9514bd738133e6ffd9da544cff39ca64a44b8e7ade563e23a",
-  "exe_sha256": "71ed30c107fa6d7670c2bbc8e07795ba5f7f7a86f7db2f3811af4df0f73bee4d",
-  "size": 40824759,
+  "version": "2026.11.06-12",
+  "notes": "생성창 웹 길잡이 네 칸 · 폰은 아래",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-12.zip",
+  "sha256": "a729c6c9887468e5782e8c77a4c226ea3818235970a31aa114ee7bb08cc768fc",
+  "exe_sha256": "c9e28dd91381b9dc023cdbe562bd1e6b4b2170b3dac62d01b4558d25eacdbfc1",
+  "size": 40826984,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
