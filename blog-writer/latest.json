@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-9",
-  "notes": "글쓰기 입구 하나 — 서버 PC 의 새 원고는 이 PC 생성창으로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-9.zip",
-  "sha256": "ac0483a15795dcb7947bd0532dd5aa6792b20b498e4c6d8fb53f32c22bc0d830",
-  "exe_sha256": "1bc153d327a18e897fbf67ae61e91c8bacb00e8a16493d8ce9bde037f9e35218",
-  "size": 40817854,
+  "version": "2026.11.06-10",
+  "notes": "허브 이동 — 원고 보관함 바로 열기 · 생성창은 길잡이 하나 · 폰은 아래 길잡이",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-10.zip",
+  "sha256": "76e9ad864dbb6644018792d7e55b7a89185c4368adf54693fb54255f171082ea",
+  "exe_sha256": "2d2775392e3cae63d3cadd7374f567e34c598f53e5477168930a6ba107622e8c",
+  "size": 40818936,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
