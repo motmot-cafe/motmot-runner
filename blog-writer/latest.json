@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.05-6",
-  "notes": "웹(motmot.co.kr/writer)에서 원고기 화면을 볼 수 있게 했습니다",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.05-6.zip",
-  "sha256": "4e74da920be4cf3a19d51e58103273386605c1307cfaed553a4c4c9cd2a0b46d",
-  "exe_sha256": "8db5ce9e7eb98c573ae2fa2dde856f6b12caa0347aa1d5253628afb38e08c985",
-  "size": 40798078,
+  "version": "2026.11.06-1",
+  "notes": "블로그 지수 맨 위에 「개요 | 전문가 모드」 전환을 넣었습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-1.zip",
+  "sha256": "a08cffcff2797d146acb8c023fa8a57ab61d8e8424bb06688c4b0dd8b7edc877",
+  "exe_sha256": "40f6daf350162e00e095e66cf79651a9897c9083d367420ef7d8df8184902919",
+  "size": 40798917,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
