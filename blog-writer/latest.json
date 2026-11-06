@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-3",
-  "notes": "원고 쓰기 비용 · 속도를 줄였습니다(프롬프트 캐시 · 겹침 검사)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-3.zip",
-  "sha256": "2d4ba2d94b1f0e554d1f98439738d1fd8f9b82fab52cd026193137783194dbd7",
-  "exe_sha256": "93aed334556b0cf70282c9e1fe19b8f9f2b05dca44feed4ca62bf82ad47fe096",
-  "size": 40801632,
+  "version": "2026.11.06-4",
+  "notes": "업데이트 서명 준비 — 설정에서 서명 열쇠를 만들 수 있습니다",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-4.zip",
+  "sha256": "b6ec2fa1ef2bf0fd880de55c3271e4d7d5411a40d064488451db867445d71ece",
+  "exe_sha256": "227c9a0cb1db6b5a40468494825638d47b0ed5918af854ceeff8873672a6b530",
+  "size": 40805594,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
