@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.07-1",
-  "notes": "원고 규칙은 「고친 날」 · 검사 표지 ✓ ✕ ! 로",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.07-1.zip",
-  "sha256": "67d8b9903da637c30be7caa1ba99aa005d6b69b8781482e8f3fe2af13e77c3a4",
-  "exe_sha256": "74aff9f31d6434ef21d12a6347502a9c356a484e4286826f3ec6ea9174d9bc29",
-  "size": 40833979,
+  "version": "2026.11.07-2",
+  "notes": "원고 끝에 댓글 부르는 질문 한 줄",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.07-2.zip",
+  "sha256": "004cf3915a0f1d61380a886cf7f2240d5b4c6d6055d2c173093e7397b4901771",
+  "exe_sha256": "3a0c0ee70d4d5c5f453a98b1bc0d9995503169611f0e9bce059d2ab9070b0183",
+  "size": 40835333,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
