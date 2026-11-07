@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.06-17",
-  "notes": "폰에서 누르기 쉽게 — 단추 · 확인란 크게 · 초점 테",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.06-17.zip",
-  "sha256": "a7e1a98d53f14e9f642cd38feee0655809a995b55432809d0fa60ab1540b2b0a",
-  "exe_sha256": "aa06754ec800d9df3697625eeaa173a2da9b62bcb03c0e972da1bb5989efd481",
-  "size": 40833629,
+  "version": "2026.11.07-1",
+  "notes": "원고 규칙은 「고친 날」 · 검사 표지 ✓ ✕ ! 로",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.07-1.zip",
+  "sha256": "67d8b9903da637c30be7caa1ba99aa005d6b69b8781482e8f3fe2af13e77c3a4",
+  "exe_sha256": "74aff9f31d6434ef21d12a6347502a9c356a484e4286826f3ec6ea9174d9bc29",
+  "size": 40833979,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
