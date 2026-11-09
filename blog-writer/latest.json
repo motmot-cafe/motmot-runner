@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.09-1",
-  "notes": "블로그 지수 목표 키워드 순위에 메인(통합검색) 노출",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.09-1.zip",
-  "sha256": "24e81230fa37fd17070dcfaa41c1d1100d891c91a38a1705a4c70b400ed8fd6b",
-  "exe_sha256": "a3a0dabbccda4592bb7c52e7adc9f2f16eb57107ae232f16c6547108f51ce7fc",
-  "size": 40837375,
+  "version": "2026.11.09-2",
+  "notes": "웹 원고기 로그 말 · 웹 원고기 화면 고침(I-342)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.09-2.zip",
+  "sha256": "5b3fadadadbe0b0e159c10a8e35de09f88c461641d3752fa30de45370a2ce1f6",
+  "exe_sha256": "aca77dceefede2cdcd64bbcd962f53825c8e20987816db795ba6420747677893",
+  "size": 40837377,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
