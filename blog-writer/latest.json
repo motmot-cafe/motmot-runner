@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.07-2",
-  "notes": "원고 끝에 댓글 부르는 질문 한 줄",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.07-2.zip",
-  "sha256": "004cf3915a0f1d61380a886cf7f2240d5b4c6d6055d2c173093e7397b4901771",
-  "exe_sha256": "3a0c0ee70d4d5c5f453a98b1bc0d9995503169611f0e9bce059d2ab9070b0183",
-  "size": 40835333,
+  "version": "2026.11.09-1",
+  "notes": "블로그 지수 목표 키워드 순위에 메인(통합검색) 노출",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.09-1.zip",
+  "sha256": "24e81230fa37fd17070dcfaa41c1d1100d891c91a38a1705a4c70b400ed8fd6b",
+  "exe_sha256": "a3a0dabbccda4592bb7c52e7adc9f2f16eb57107ae232f16c6547108f51ce7fc",
+  "size": 40837375,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
