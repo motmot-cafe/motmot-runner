@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.09-2",
-  "notes": "웹 원고기 로그 말 · 웹 원고기 화면 고침(I-342)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.09-2.zip",
-  "sha256": "5b3fadadadbe0b0e159c10a8e35de09f88c461641d3752fa30de45370a2ce1f6",
-  "exe_sha256": "aca77dceefede2cdcd64bbcd962f53825c8e20987816db795ba6420747677893",
-  "size": 40837377,
+  "version": "2026.11.10-1",
+  "notes": "못 쓴 원고 말 · 화면 표지 ✕/! · 지수 점검 탭",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-1.zip",
+  "sha256": "46ec61dd23380e49b17ebb96dd76dc7d4b7b2293bea8c6ce298f3ebaee9d89c1",
+  "exe_sha256": "aaa913217a4e0e12b66cbec5b45e2407316d2e5953a6a388521f7830e3e5e486",
+  "size": 40837395,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
