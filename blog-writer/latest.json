@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.10-1",
-  "notes": "못 쓴 원고 말 · 화면 표지 ✕/! · 지수 점검 탭",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-1.zip",
-  "sha256": "46ec61dd23380e49b17ebb96dd76dc7d4b7b2293bea8c6ce298f3ebaee9d89c1",
-  "exe_sha256": "aaa913217a4e0e12b66cbec5b45e2407316d2e5953a6a388521f7830e3e5e486",
-  "size": 40837395,
+  "version": "2026.11.10-2",
+  "notes": "블로그 지수 진단 전에도 오늘 할 일",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-2.zip",
+  "sha256": "a9605e6b9068de3818becb154d478eda2d243876237b7e2634e6dab717fab6e2",
+  "exe_sha256": "78ba89e6b6bc7b11208f56c6efa52680d8711081d6e0c24d939382d525f26e3b",
+  "size": 40837530,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
