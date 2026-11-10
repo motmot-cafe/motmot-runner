@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.10-2",
-  "notes": "블로그 지수 진단 전에도 오늘 할 일",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-2.zip",
-  "sha256": "a9605e6b9068de3818becb154d478eda2d243876237b7e2634e6dab717fab6e2",
-  "exe_sha256": "78ba89e6b6bc7b11208f56c6efa52680d8711081d6e0c24d939382d525f26e3b",
-  "size": 40837530,
+  "version": "2026.11.10-3",
+  "notes": "블로그 지수 자동 진단 하루 두 번(09:00 · 23:00)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-3.zip",
+  "sha256": "ae62ae15d6c7a8e42983e3c6dfb1a05600d46326055844ae6f0508cfab61a8a4",
+  "exe_sha256": "4a40bd3763d2c90a998e86e4da32a8122db1ca88e4c1162277efa2826d72ba2d",
+  "size": 40838789,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
