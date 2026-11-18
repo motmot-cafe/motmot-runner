@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.10-3",
-  "notes": "블로그 지수 자동 진단 하루 두 번(09:00 · 23:00)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.10-3.zip",
-  "sha256": "ae62ae15d6c7a8e42983e3c6dfb1a05600d46326055844ae6f0508cfab61a8a4",
-  "exe_sha256": "4a40bd3763d2c90a998e86e4da32a8122db1ca88e4c1162277efa2826d72ba2d",
-  "size": 40838789,
+  "version": "2026.11.18-1",
+  "notes": "블로그 지수 메인(통합검색) 노출 다시 잼(네이버 화면 바뀜 대응)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.18-1.zip",
+  "sha256": "2ca73a5342065a5222ec738df5b49348c3d356329f62c1d87c8e351dd7cd5abe",
+  "exe_sha256": "57bbf3f63c766e746c6f88d3bcf5cb343862b008805fe84de495f517b16d40d5",
+  "size": 40839235,
   "claude_code": {
     "min": "2.1.284",
     "latest": "2.1.318"
