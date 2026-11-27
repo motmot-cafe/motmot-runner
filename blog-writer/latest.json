@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.18-1",
-  "notes": "블로그 지수 메인(통합검색) 노출 다시 잼(네이버 화면 바뀜 대응)",
-  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.18-1.zip",
-  "sha256": "2ca73a5342065a5222ec738df5b49348c3d356329f62c1d87c8e351dd7cd5abe",
-  "exe_sha256": "57bbf3f63c766e746c6f88d3bcf5cb343862b008805fe84de495f517b16d40d5",
-  "size": 40839235,
+  "version": "2026.11.27-1",
+  "notes": "카페 원고 첫 시도에 사진 수 통과(파트마다 3장씩)",
+  "zip": "https://raw.githubusercontent.com/motmot-cafe/motmot-runner/main/blog-writer/motmot-blog-writer-2026.11.27-1.zip",
+  "sha256": "bedd5c4edf45a6cbf4d5b5f0bf378d38867cb6bcb5ef5c35d97abbab14ed85c0",
+  "exe_sha256": "7bac9da20385d1716462b9f688db0b893da0a747c6fc7c2a3bacd2b7e23d3b63",
+  "size": 41362577,
   "claude_code": {
     "min": "2.1.284",
-    "latest": "2.1.318"
+    "latest": "2.1.332"
   }
 }
